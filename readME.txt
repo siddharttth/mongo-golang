@@ -1,3 +1,4 @@
+PACKAGES BEING USED !
 --my GO111MODULE was off by default--
 go env -w GO111MODULE=on
 go mod init <folder name>
